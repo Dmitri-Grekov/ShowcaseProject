@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TauWarriorDebug": {
+      "commandName": "Project",
+      "commandLineArgs": "temp"
+    }
+  }
+}
